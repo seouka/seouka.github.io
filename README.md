@@ -1,0 +1,2 @@
+# seouka.github.io
+frontpage
